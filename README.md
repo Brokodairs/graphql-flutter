@@ -1,3 +1,5 @@
+Keeping this project for the last commit in the branch nullsafety that we currenlty need and use.
+
 [![MIT License][license-badge]][license-link]
 [![Financial Contributors on Open Collective](https://opencollective.com/graphql-flutter/all/badge.svg?label=financial+contributors)](https://opencollective.com/graphql-flutter) [![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs-link]
